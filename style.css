@@ -1,0 +1,10 @@
+#dos {
+    display: flex;
+  }
+  
+  .listaord,
+  .listasdes {
+    flex: 1;
+
+    margin-left: 50px;
+  }
